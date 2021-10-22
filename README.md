@@ -4,7 +4,7 @@
 
 This extension adds a new tab to Chrome developer tools:
 
-![GraphQL developer tools](https://user-images.githubusercontent.com/1462574/32994379-d636fb8e-cd66-11e7-8b1d-516666579173.png)
+![GraphQL developer tools](https://user-images.githubusercontent.com/1592820/138446046-01415132-a2e3-425b-9644-b66b558096b3.png)
 
 ## How to try
 
