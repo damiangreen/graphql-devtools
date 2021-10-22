@@ -8,4 +8,4 @@ This extension adds a new tab to Chrome developer tools:
 
 ## How to try
 
-Install the extension from Chrome Web Store, navigate to https://www.graphqlhub.com/playground/github, and inspect the page.
+Install the extension from Chrome Web Store, navigate to any page serving graphql, and inspect the page.

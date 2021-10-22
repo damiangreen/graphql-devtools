@@ -1,7 +1,7 @@
 {
-  "name": "GraphQL developer tools",
-  "version": "0.1.2",
-  "manifest_version": 2,
+  "name": "GraphQL developer tools Rebooted",
+  "version": "0.1.0",
+  "manifest_version": 3,
   "description": "Devtools panel for GraphQL development",
   "devtools_page": "devtools.html",
   "permissions": [
